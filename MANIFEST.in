@@ -4,15 +4,15 @@ include *.json
 include *.md
 include *.py
 include *.txt
-recursive-include 75bit_theme *.css
-recursive-include 75bit_theme *.csv
-recursive-include 75bit_theme *.html
-recursive-include 75bit_theme *.ico
-recursive-include 75bit_theme *.js
-recursive-include 75bit_theme *.json
-recursive-include 75bit_theme *.md
-recursive-include 75bit_theme *.png
-recursive-include 75bit_theme *.py
-recursive-include 75bit_theme *.svg
-recursive-include 75bit_theme *.txt
-recursive-exclude 75bit_theme *.pyc
+recursive-include blacktheme *.css
+recursive-include blacktheme *.csv
+recursive-include blacktheme *.html
+recursive-include blacktheme *.ico
+recursive-include blacktheme *.js
+recursive-include blacktheme *.json
+recursive-include blacktheme *.md
+recursive-include blacktheme *.png
+recursive-include blacktheme *.py
+recursive-include blacktheme *.svg
+recursive-include blacktheme *.txt
+recursive-exclude blacktheme *.pyc

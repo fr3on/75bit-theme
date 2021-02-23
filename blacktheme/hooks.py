@@ -2,8 +2,8 @@
 from __future__ import unicode_literals
 from . import __version__ as app_version
 
-app_name = "75bit_theme"
-app_title = "75Bit Theme"
+app_name = "blacktheme"
+app_title = "Black Theme"
 app_publisher = "75Bit"
 app_description = "Material UI for ERPNext"
 app_icon = "octicon octicon-file-directory"
@@ -15,12 +15,12 @@ app_license = "GNU General Public License"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/75bit_theme/css/75bit_theme.css"
-# app_include_js = "/assets/75bit_theme/js/75bit_theme.js"
+app_include_css = "/assets/blacktheme/css/blacktheme.css"
+# app_include_js = "/assets/blacktheme/js/blacktheme.js"
 
 # include js, css files in header of web template
-web_include_css = "/assets/75bit_theme/css/75bit_theme.css"
-# web_include_js = "/assets/75bit_theme/js/75bit_theme.js"
+web_include_css = "/assets/blacktheme/css/blacktheme.css"
+# web_include_js = "/assets/blacktheme/js/blacktheme.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
@@ -43,7 +43,7 @@ web_include_css = "/assets/75bit_theme/css/75bit_theme.css"
 # }
 
 # Website user home page (by function)
-# get_website_user_home_page = "75bit_theme.utils.get_home_page"
+# get_website_user_home_page = "blacktheme.utils.get_home_page"
 
 # Generators
 # ----------
@@ -54,14 +54,14 @@ web_include_css = "/assets/75bit_theme/css/75bit_theme.css"
 # Installation
 # ------------
 
-# before_install = "75bit_theme.install.before_install"
-# after_install = "75bit_theme.install.after_install"
+# before_install = "blacktheme.install.before_install"
+# after_install = "blacktheme.install.after_install"
 
 # Desk Notifications
 # ------------------
 # See frappe.core.notifications.get_notification_config
 
-# notification_config = "75bit_theme.notifications.get_notification_config"
+# notification_config = "blacktheme.notifications.get_notification_config"
 
 # Permissions
 # -----------
@@ -92,38 +92,38 @@ web_include_css = "/assets/75bit_theme/css/75bit_theme.css"
 
 # scheduler_events = {
 # 	"all": [
-# 		"75bit_theme.tasks.all"
+# 		"blacktheme.tasks.all"
 # 	],
 # 	"daily": [
-# 		"75bit_theme.tasks.daily"
+# 		"blacktheme.tasks.daily"
 # 	],
 # 	"hourly": [
-# 		"75bit_theme.tasks.hourly"
+# 		"blacktheme.tasks.hourly"
 # 	],
 # 	"weekly": [
-# 		"75bit_theme.tasks.weekly"
+# 		"blacktheme.tasks.weekly"
 # 	]
 # 	"monthly": [
-# 		"75bit_theme.tasks.monthly"
+# 		"blacktheme.tasks.monthly"
 # 	]
 # }
 
 # Testing
 # -------
 
-# before_tests = "75bit_theme.install.before_tests"
+# before_tests = "blacktheme.install.before_tests"
 
 # Overriding Methods
 # ------------------------------
 #
 # override_whitelisted_methods = {
-# 	"frappe.desk.doctype.event.event.get_events": "75bit_theme.event.get_events"
+# 	"frappe.desk.doctype.event.event.get_events": "blacktheme.event.get_events"
 # }
 #
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,
 # along with any modifications made in other Frappe apps
 # override_doctype_dashboards = {
-# 	"Task": "75bit_theme.task.get_dashboard_data"
+# 	"Task": "blacktheme.task.get_dashboard_data"
 # }
 

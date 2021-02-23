@@ -23,7 +23,7 @@
 .navbar-light .navbar-nav .nav-link{
 	color: #ffffff;}
 .navbar-light .navbar-nav .nav-link:hover{
-    color:#c7c7c7}
+	color:#c7c7c7}
 .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
 	color: #ffffff;}
 .navbar .navbar-search-icon {
@@ -58,11 +58,11 @@ h4, .h4 {
 .page-head {
 	border-bottom: 1px solid #eee;}
 @media (min-width: 768px) {
-.navbar-nav {
-	padding-top: 3px;}}
+	.navbar-nav {
+		padding-top: 3px;}}
 .module-box {
 	border: 1px solid #eaeaea !important;
-        border-radius: 0px !important;
+	border-radius: 0px !important;
 	padding: 8px 15px}
 .module-box:hover{
 	border: 1px solid #b1d0ff !important}
@@ -114,13 +114,13 @@ h6.uppercase, .h6.uppercase {
 	height: 275px;
 	max-width: 500px !important;
 	padding: 25px !important;
- 	border: 1px solid #ececec !important;
+	border: 1px solid #ececec !important;
 	box-shadow: none !important;
 	border-radius:0px !important}
 .page-card .page-card-head {
 	border-bottom:none !important}
 .page-card .page-card-head .indicator {
- 	color: #000000 !important;
+	color: #000000 !important;
 	font-size: 15px !important;}
 .indicator, .indicator-right{
 	font-weight:500;font-size:13px;}
@@ -166,66 +166,66 @@ h6.uppercase, .h6.uppercase {
 
 /*Icons for Desk*/
 .icon{
-    display: inline-block;
-    height: 25px;
-    width: 25px;
-    vertical-align: bottom;
-    background-size: contain !important;}
+	display: inline-block;
+	height: 25px;
+	width: 25px;
+	vertical-align: bottom;
+	background-size: contain !important;}
 .start-blue{
-   background: url(/assets/75bit_theme/images/start.png)}
+	background: url(/assets/blacktheme/images/start.png)}
 .accounting-blue{
-   background: url(/assets/75bit_theme/images/accounting.png)}
+	background: url(/assets/blacktheme/images/accounting.png)}
 .buying-blue{
-   background: url(/assets/75bit_theme/images/buying.png)}
+	background: url(/assets/blacktheme/images/buying.png)}
 .selling-blue{
-   background: url(/assets/75bit_theme/images/selling.png)}
+	background: url(/assets/blacktheme/images/selling.png)}
 .stock-blue{
-   background: url(/assets/75bit_theme/images/stock.png)}
+	background: url(/assets/blacktheme/images/stock.png)}
 .assets-blue{
-   background: url(/assets/75bit_theme/images/assets.png)}
+	background: url(/assets/blacktheme/images/assets.png)}
 .projects-blue{
-   background: url(/assets/75bit_theme/images/projects.png)}
+	background: url(/assets/blacktheme/images/projects.png)}
 .crm-blue{
-   background: url(/assets/75bit_theme/images/crm.png)}
+	background: url(/assets/blacktheme/images/crm.png)}
 .support-blue{
-   background: url(/assets/75bit_theme/images/support.png)}
+	background: url(/assets/blacktheme/images/support.png)}
 .hr-blue{
-   background: url(/assets/75bit_theme/images/hr.png)}
+	background: url(/assets/blacktheme/images/hr.png)}
 .quality-blue{
-   background: url(/assets/75bit_theme/images/quality.png)}
+	background: url(/assets/blacktheme/images/quality.png)}
 .website-blue{
-   background: url(/assets/75bit_theme/images/website.png)}
+	background: url(/assets/blacktheme/images/website.png)}
 .social-blue{
-   background: url(/assets/75bit_theme/images/social.png)}
+	background: url(/assets/blacktheme/images/social.png)}
 .dashboard-blue{
-   background: url(/assets/75bit_theme/images/dashboard.png)}
+	background: url(/assets/blacktheme/images/dashboard.png)}
 .marketplace-blue{
-   background: url(/assets/75bit_theme/images/marketplace.png)}
+	background: url(/assets/blacktheme/images/marketplace.png)}
 .tools-blue{
-   background: url(/assets/75bit_theme/images/tools.png)}
+	background: url(/assets/blacktheme/images/tools.png)}
 .settings-blue{
-   background: url(/assets/75bit_theme/images/settings.png)}
+	background: url(/assets/blacktheme/images/settings.png)}
 .users-blue{
-   background: url(/assets/75bit_theme/images/users.png)}
+	background: url(/assets/blacktheme/images/users.png)}
 .customize-blue{
-   background: url(/assets/75bit_theme/images/customize.png)}
+	background: url(/assets/blacktheme/images/customize.png)}
 .integrate-blue{
-   background: url(/assets/75bit_theme/images/integrate.png)}
+	background: url(/assets/blacktheme/images/integrate.png)}
 .developer-blue{
-   background: url(/assets/75bit_theme/images/developer.png)}
+	background: url(/assets/blacktheme/images/developer.png)}
 .learn-blue{
-   background: url(/assets/75bit_theme/images/learn.png)}
+	background: url(/assets/blacktheme/images/learn.png)}
 .manufacture-blue{
-   background: url(/assets/75bit_theme/images/manufacture.png)}
+	background: url(/assets/blacktheme/images/manufacture.png)}
 .retail-blue{
-   background: url(/assets/75bit_theme/images/retail.png)}
+	background: url(/assets/blacktheme/images/retail.png)}
 .education-blue{
-   background: url(/assets/75bit_theme/images/education.png)}
+	background: url(/assets/blacktheme/images/education.png)}
 .healthcare-blue{
-   background: url(/assets/75bit_theme/images/healthcare.png)}
+	background: url(/assets/blacktheme/images/healthcare.png)}
 .agriculture-blue{
-   background: url(/assets/75bit_theme/images/agriculture.png)}
+	background: url(/assets/blacktheme/images/agriculture.png)}
 .non-profit-blue{
-   background: url(/assets/75bit_theme/images/charity.png)}
+	background: url(/assets/blacktheme/images/charity.png)}
 .app-logo{
-	content:url("/assets/75bit_theme/images/75Bit-Light.png")}
+	content:url("/assets/blacktheme/images/75Bit-Light.png")}

@@ -5,10 +5,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "75Bit Theme",
+			"module_name": "Black Theme",
 			"color": "grey",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
-			"label": _("75Bit Theme")
+			"label": _("Black Theme")
 		}
 	]

@@ -80,7 +80,7 @@ h6.uppercase, .h6.uppercase {
 	background-color: #000000;
 	border-color: #000000; }
 .btn-primary:focus, .btn-primary.focus {
-	box-shadow: 0 0 0 0.1rem rgba(74, 120, 247, 0.16);}
+	box-shadow: 0 0 0 0.1rem #000000;}
 .btn-login{
 	padding:8px}
 .btn:hover{
@@ -145,13 +145,7 @@ h6.uppercase, .h6.uppercase {
 	border-radius:0px;
 	border:1px solid #ececec}
 .form-control:focus {
-	box-shadow: 0 0 0 0.05rem rgba(33, 82, 158, 0.62) !important;}
-
-/*To hide the Help dropdown button */
-.navbar-right .dropdown-help {
-	display:none}
-/*End hide Help dropdown button */
-
+	box-shadow: 0 0 0 0.05rem #000000 !important;}
 .ellipsis{
 	font-weight:500}
 .list-row-head{

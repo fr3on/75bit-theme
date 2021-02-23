@@ -224,7 +224,7 @@ h6.uppercase, .h6.uppercase {
 .navbar-home > .app-logo {
 	content:url("/assets/blacktheme/images/75Bit-Dark.png")
 }
-.app-logo{
+.navbar-brand > .navbar-home > .app-logo{
 	content:url("/assets/blacktheme/images/75Bit-Light.png")}
 .splash > img {
 	content:url("/assets/blacktheme/images/75Bit-Dark.png")

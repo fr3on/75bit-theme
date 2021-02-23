@@ -226,4 +226,10 @@ h6.uppercase, .h6.uppercase {
 .splash > img {
 	content:url("/assets/blacktheme/images/75Bit-Dark.png")
 }
+link[rel=icon] {
+	content:url("/assets/blacktheme/images/75Bit.ico")
+}
+link[rel="shortcut icon"] {
+	 content:url("/assets/blacktheme/images/75Bit.ico")
+}
 

@@ -223,3 +223,6 @@ h6.uppercase, .h6.uppercase {
 	background: url(/assets/blacktheme/images/charity.png)}
 .app-logo{
 	content:url("/assets/blacktheme/images/75Bit-Light.png")}
+.centered > .splash > img {
+	content:url("/assets/blacktheme/images/75Bit-Light.png")
+}

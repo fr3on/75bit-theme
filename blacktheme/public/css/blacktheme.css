@@ -221,12 +221,12 @@ h6.uppercase, .h6.uppercase {
 	background: url(/assets/blacktheme/images/agriculture.png)}
 .non-profit-blue{
 	background: url(/assets/blacktheme/images/charity.png)}
+.navbar-home > .app-logo {
+	content:url("/assets/blacktheme/images/75Bit-Dark.png")
+}
 .app-logo{
 	content:url("/assets/blacktheme/images/75Bit-Light.png")}
 .splash > img {
-	content:url("/assets/blacktheme/images/75Bit-Dark.png")
-}
-.navbar-home > .app-logo > img {
 	content:url("/assets/blacktheme/images/75Bit-Dark.png")
 }
 link[rel=icon] {

@@ -227,9 +227,9 @@ h6.uppercase, .h6.uppercase {
 	content:url("/assets/blacktheme/images/75Bit-Dark.png")
 }
 link[rel=icon] {
-	content:url("/assets/blacktheme/images/75Bit.ico")
+	content:url("/assets/blacktheme/images/75Bit-Dark.png")
 }
 link[rel="shortcut icon"] {
-	 content:url("/assets/blacktheme/images/75Bit.ico")
+	 content:url("/assets/blacktheme/images/75Bit-Dark.png")
 }
 

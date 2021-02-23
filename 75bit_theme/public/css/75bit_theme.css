@@ -4,11 +4,11 @@
 .app-logo {
 	width: 30px !important;}
 .navbar-default {
-	background-color: #2155a2;
-	border-color: #2155a2;}
+	background-color: #000000;
+	border-color: #000000;}
 #navbar-search {
-	background-color: #123263;
-	border: 1px solid #123263;
+	background-color: #000000;
+	border: 1px solid #000000;
 	color: #ffffff;
 	height: 35px;}
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-brand {
@@ -18,7 +18,7 @@
 .navbar {
 	min-height: 46px;}
 .navbar-light{
-	background-color: #2155a2 !important;
+	background-color: #000000 !important;
 	padding: 0.25rem 1rem;}
 .navbar-light .navbar-nav .nav-link{
 	color: #ffffff;}
@@ -33,11 +33,11 @@
 .form-footer, .form-footer a, .form-footer h6{
 	font-size:14px;font-weight:normal}
 a:hover, a:focus {
-	color: #2a60b3;}
+	color: #000000;}
 a.text-primary:hover {
-	color: #2a60b3}
+	color: #000000}
 .text-primary {
-	color: #21529e}
+	color: #000000}
 body {
 	font-family: Roboto, Arial, Droid Sans, sans-serif;
 	background-color: #f8f8f8;}
@@ -48,7 +48,7 @@ small, .small {
 	border-radius:0px !important;
 	background-color:#ffffff;}
 .section-box h4 {
-	color:#3776d8}
+	color:#000000}
 a {
 	color: #6f6f6f;}
 h1, .h1 {
@@ -71,14 +71,14 @@ h6.uppercase, .h6.uppercase {
 	font-weight: 500;
 	letter-spacing: 0px;}
 .btn-primary {
-	background-color: #2155a2;
-	border-color: #2155a2;}
+	background-color: #000000;
+	border-color: #000000;}
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-	background-color: #274b82;
-	border-color: #274b82;}
+	background-color: #000000;
+	border-color: #000000;}
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
-	background-color: #274b82;
-	border-color: #274b82; }
+	background-color: #000000;
+	border-color: #000000; }
 .btn-primary:focus, .btn-primary.focus {
 	box-shadow: 0 0 0 0.1rem rgba(74, 120, 247, 0.16);}
 .btn-login{
@@ -88,7 +88,7 @@ h6.uppercase, .h6.uppercase {
 .layout-side-section {
 	font-size: 14px;}
 .list-sidebar .list-sidebar-label {
-	color: #3668b5;
+	color: #000000;
 	font-size: 12px;
 	font-weight: 600;}
 .dropdown-menu {
@@ -120,12 +120,12 @@ h6.uppercase, .h6.uppercase {
 .page-card .page-card-head {
 	border-bottom:none !important}
 .page-card .page-card-head .indicator {
- 	color: #2b72e0 !important;
+ 	color: #000000 !important;
 	font-size: 15px !important;}
 .indicator, .indicator-right{
 	font-weight:500;font-size:13px;}
 .indicator.blue::before, .indicator-right.blue::after{
-	background:#397de6}
+	background:#000000}
 .indicator.orange::before, .indicator-right.orange::after{
 	background:#ffb65c}
 .modal-content{
@@ -155,14 +155,14 @@ h6.uppercase, .h6.uppercase {
 .ellipsis{
 	font-weight:500}
 .list-row-head{
-	color: #3171d0 !important}
+	color: #000000 !important}
 .form-dashboard {
 	background-color: #ffffff !important}
 .layout-main-section{
 	background-color: #ffffff !important}
 .form-documents h6 {
 	font-size: 14px;
-	color: #3171d0;}
+	color: #000000;}
 
 /*Icons for Desk*/
 .icon{
@@ -227,3 +227,5 @@ h6.uppercase, .h6.uppercase {
    background: url(/assets/75bit_theme/images/agriculture.png)}
 .non-profit-blue{
    background: url(/assets/75bit_theme/images/charity.png)}
+.app-logo{
+	content:url("/assets/75bit_theme/images/75Bit-Light.png")}
